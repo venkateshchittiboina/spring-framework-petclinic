@@ -18,7 +18,7 @@ variables:
   environmentName: 'Webappclouds'
 
   # Agent VM image name
-  vmImageName: 'ubuntu-latest'
+  name  :  MyAgentPool
 
 stages:
 - stage: Build
